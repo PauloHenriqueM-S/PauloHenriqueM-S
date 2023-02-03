@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Salve!!! Me chamo Paulo Henrique e estou explorando o mundo da programação😎</h1>
 
-<div>
+<div align="center">
    <a href="https://github.com/PHTI">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHTI&layout=compact&langs_count=6&theme=dracula" style=""/>
