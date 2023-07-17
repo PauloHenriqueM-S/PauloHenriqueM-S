@@ -1,8 +1,7 @@
-<body>
 <div align="center">
 <img alt="g5" style="border-radius:200px;width:50vw" src="https://i.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.webp"/>
 </div>
-<h1 align="center">Salve!!! Me chamo Paulo Henrique, tenho <span id="age"></span> e estou explorando o mundo da programação😎</h1>
+<h1 align="center">Salve!!! Me chamo Paulo Henrique, e estou explorando o mundo da programação😎</h1>
 
 <div align="center">
    <a href="https://github.com/PHTI">
@@ -35,10 +34,4 @@
   <a href="https://www.linkedin.com/in/paulo-henrique-001b84243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href = "https://t.me/PauloHenriquePHT" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
-<script>
-   const date = new Date();
-   const year = data.getFullYear();
-   const age = year - 2002; 
-   document.getElementById(age).innerHTML = `age`
-</script>
-</body>
+
