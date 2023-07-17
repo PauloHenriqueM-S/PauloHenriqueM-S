@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="g5" style="border-radius:200px;width:50vw" src="https://i.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.webp"/>
 </div>
-<h1 align="center">Salve!!! Me chamo Paulo Henrique, tenho <script>age</script> e estou explorando o mundo da programação😎</h1>
+<h1 align="center">Salve!!! Me chamo Paulo Henrique, tenho <span id="age"></span> e estou explorando o mundo da programação😎</h1>
 
 <div align="center">
    <a href="https://github.com/PHTI">
@@ -38,4 +38,5 @@
    const date = new Date();
    const year = data.getFullYear();
    const age = year - 2002; 
+   document.getElementById(age).innerHTML = `age`
 </script>
