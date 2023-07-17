@@ -1,3 +1,4 @@
+<body>
 <div align="center">
 <img alt="g5" style="border-radius:200px;width:50vw" src="https://i.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.webp"/>
 </div>
@@ -40,3 +41,4 @@
    const age = year - 2002; 
    document.getElementById(age).innerHTML = `age`
 </script>
+</body>
