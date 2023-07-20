@@ -1,6 +1,3 @@
-<div align="center">
-<img alt="g5" style="border-radius:200px;width:50vw" src="https://i.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.webp"/>
-</div>
 <h1 align="center">Salve!!! Me chamo Paulo Henrique, e estou explorando o mundo da programação😎</h1>
 
 <div align="center">
