@@ -1,8 +1,8 @@
 <h1 align="center">Salve!!! Me chamo Paulo Henrique, e estou explorando o mundo da programação😎</h1>
 
 <div align="center">
-   <a href="https://github.com/PHTI">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueM-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br>
+   <a href="https://github.com/PauloHenriqueM-S">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=PauloHenriqueM-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueM-S&layout=compact&langs_count=6&theme=dracula" style=""/>
    </a>
 </div>
