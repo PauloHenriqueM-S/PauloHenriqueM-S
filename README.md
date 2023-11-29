@@ -18,7 +18,7 @@
   </p>
       <h2 align="center">Tenho certo conhecimento<h2>
          <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,vuejs,gulp,express" />
+    <img src="https://skillicons.dev/icons?i=angular,vuejs,gulp,express,bootstrap,sass" />
   </p>
 </div>
 
