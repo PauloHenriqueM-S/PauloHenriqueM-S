@@ -8,13 +8,17 @@
 </div>
 
 <div>
-  <h2 align="center">Tenho certo conhecimento</h2>
+  <h2 align="center">O que mais uso</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,css,html,js,nodejs,react,angular,vuejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,css,html,js,nodejs,react" />
   </p>
    <h2 align="center">Aprendendo<h2>
       <p align="center">
     <img src="https://skillicons.dev/icons?i=,react,next,typescript,tailwind,nodejs" />
+  </p>
+      <h2 align="center">Tenho certo conhecimento<h2>
+         <p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,vuejs" />
   </p>
 </div>
 
