@@ -14,7 +14,7 @@
   </p>
    <h2 align="center">Aprendendo<h2>
       <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,mysql,react,next,typescript,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=,react,next,typescript,tailwind,node-js" />
   </p>
 </div>
 
