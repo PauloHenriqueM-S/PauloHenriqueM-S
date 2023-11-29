@@ -10,7 +10,7 @@
 <div>
   <h2 align="center">Tenho certo conhecimento</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,css,html,js,nodejs," />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,css,html,js,nodejs,react,angular,vuejs" />
   </p>
    <h2 align="center">Aprendendo<h2>
       <p align="center">
