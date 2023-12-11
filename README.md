@@ -10,7 +10,7 @@
 <div>
   <h2 align="center">O que mais uso</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,css,html,js,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,css,html,js,react" />
   </p>
    <h2 align="center">Aprendendo<h2>
       <p align="center">
@@ -18,7 +18,7 @@
   </p>
       <h2 align="center">Tenho certo conhecimento<h2>
          <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,ejs,vuejs,gulp,webpack,express,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=angular,jquery,mongodb,mysql,vuejs,gulp,webpack,express,bootstrap,sass" />
   </p>
 </div>
 
