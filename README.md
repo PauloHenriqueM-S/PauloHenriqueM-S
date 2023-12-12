@@ -20,7 +20,7 @@
          <p align="center">
     <img src="https://skillicons.dev/icons?i=angular,jquery,mongodb,mysql,vuejs,gulp,webpack,express,bootstrap,sass" />
             <h2 align="center">Não possui ícones</h2>
-         <p>
+         <p align="center">
             EJS
          </p>
   </p>
