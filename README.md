@@ -17,10 +17,10 @@
     <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,postman,prisma" />
   </p>
       <h2 align="center">Tenho certo conhecimento<h2>
-         <p align="center">
+         <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,jquery,mongodb,mysql,vuejs,gulp,webpack,express,bootstrap,sass" />
-            EJS
-  </p>
+            <p align="center">EJS</p>
+  </div>
       
 </div>
 
