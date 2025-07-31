@@ -18,7 +18,7 @@
   </p>
       <h2 align="center">Tenho certo conhecimento<h2>
          <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,jquery,mongodb,mysql,vuejs,gulp,webpack,express,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=angular,jquery,mongodb,mysql,postgresql,vuejs,gulp,webpack,express,bootstrap,sass" />
             <p align="center">EJS</p>
   </div>
       
