@@ -2,8 +2,8 @@
 
 <div align="center">
    <a href="https://github.com/PauloHenriqueM-S">
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={PauloHenriqueM-S}&theme={tokyonight}" style=""/> <br>
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={PauloHeriqueM-S}&theme={tokyonight}&exclude={exclude}"/> 
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloHenriqueM-S&theme=tokyonight" style=""/> <br>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloHeriqueM-S&theme=tokyonight"/> 
    </a>
 </div>
 
