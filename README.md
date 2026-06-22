@@ -10,7 +10,7 @@
 <div>
   <h2 align="center">O que mais uso</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,css,html,js,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,css,html,js,react,typescript,tailwind" />
   </p>
    <h2 align="center">Aprendendo<h2>
       <p align="center">
